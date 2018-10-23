@@ -1,2 +1,4 @@
-# Daredevil
-Bullet rider 
+# Daredevil 
+Adventurer
+born to ride
+fear free
